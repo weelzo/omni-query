@@ -1,0 +1,5 @@
+.env
+assets/
+omni/
+__pycache__/
+.windsurfrules
